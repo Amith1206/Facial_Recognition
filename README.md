@@ -6,8 +6,8 @@ Numpy
 Pillow
 
 How to run the code:
-run the dataSetGenerator.py and enter a unique id to create face samples with your face
-run trainer.py
+run the dataSetGenerator.py and enter a unique id to create face samples with your face,
+run trainer.py,
 run detector.py
 
 This uses 2 haar classifiers
